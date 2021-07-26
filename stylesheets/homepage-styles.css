@@ -51,4 +51,10 @@
 		margin-right: 0;
 		margin-bottom: 20px;
 	}	
+	.homepage-gallery {
+		grid-gap: 8px;
+	}
+	.column {
+		grid-gap: 8px;
+	}
 }
