@@ -15,9 +15,6 @@
 	margin: 20px 0;
 }
 
-
-
-
 .introduction-image-container {
 	width: 100%;
 	max-width: 800px;
@@ -25,6 +22,26 @@
 	margin-bottom: 0;
 	display: flex;
 }
+
+.homepage-gallery-container {
+	width: 100%;
+}
+
+.homepage-gallery {
+	display: grid;
+	grid-template-columns: 358fr 614fr 530fr;
+	grid-gap: 20px;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.column {
+	width: 100%;
+	grid-gap: 20px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
 
 @media screen and (max-width: 900px) {
 	section {
