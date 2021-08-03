@@ -104,7 +104,7 @@ nav {
 
 .nav-links {
 	display: flex;
-	width: 300px;
+	width: 350px;
 	justify-content: space-between;
 	align-items: center;
 	list-style: none;
@@ -113,7 +113,7 @@ nav {
 
 .nav-links li {
 	letter-spacing: 0.5px;
-	font-size: 1rem;
+	font-size: 1.25rem;
 	opacity: 1;
 }
 
