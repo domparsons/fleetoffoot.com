@@ -12,7 +12,6 @@ body {
 
 main {
 	margin: 0 10%;
-	margin-bottom: 50px;
 }
 
 h2 {
@@ -205,12 +204,11 @@ footer {
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-gap: 6px;
-	/*max-width: 150px;*/
 }
 
 @media screen and (max-width: 1150px) {
 	main {
-		margin: 0 20px 50px;
+		margin: 0 20px;
 	}
 }
 
