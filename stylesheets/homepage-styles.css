@@ -42,6 +42,10 @@
 	flex-wrap: wrap;
 }
 
+.christmasVideo {
+	margin-top: 20px;
+}
+
 @media screen and (max-width: 900px) {
 	section {
 		flex-wrap: wrap;
